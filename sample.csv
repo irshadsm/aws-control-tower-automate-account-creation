@@ -1,4 +1,3 @@
 AccountName,SSOUserEmail,AccountEmail,SSOUserFirstName,SSOUserLastName,OrgUnit,Status,AccountId,ErrroMsg
-vishnu.gupthannair@envestnet.com,vishnu.gupthannair@envestnet.com,vishnu.gupthannair@envestnet.com,vishnu,gupthannair,Techtide (ou-aaaa-bbbbcccc),,,
-Test-account-2,test-account-sso-2@example.com,test-account-2@example.com,Fname-2,Lname-2,Test-OU-2 (ou-xxxx-yyyyzzzz),,,
-Test-account-3,test-account-sso-3@example.com,test-account-3@example.com,Fname-3,Lname-3,Test-OU-1 (ou-aaaa-bbbbcccc),,,
+vishnu.gupthannair@envestnet.com,vishnu.gupthannair@envestnet.com,vishnu.gupthannair@envestnet.com,vishnu,gupthannair,Techtide (ou-85ci-awhlhtdx),,,
+
